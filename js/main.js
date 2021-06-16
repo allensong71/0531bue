@@ -1,7 +1,7 @@
 //* Add PayPal Email
 simpleCart({
   checkout: {
-    type: "The 不讓不讓",
+    type: "PayPal",
     email: "Allengogobuy@gmail.com"
   }
 });
