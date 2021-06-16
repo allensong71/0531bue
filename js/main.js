@@ -2,7 +2,7 @@
 simpleCart({
   checkout: {
     type: "PayPal",
-    email: "Allengogobuy@gmail.com"
+    email: "you@yours.com"
   }
 });
 
